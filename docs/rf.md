@@ -1,3 +1,7 @@
+---
+
+# Requisitos do Sistema
+
 ## 1. Requisitos Funcionais (RF)
 
 ### RF01 — Login do usuário
@@ -8,4 +12,3 @@ O sistema deve permitir que o usuário solicite recuperação de senha por e-mai
 
 ### RF03 — Atualização de perfil
 O usuário pode alterar nome, foto e dados pessoais.
-
