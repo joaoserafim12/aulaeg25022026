@@ -1,3 +1,5 @@
+---
+
 ## 3. Regras de Negócio (RN)
 
 ### RN01 — Maioridade
